@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Fabian Alpizar Fuentes
 
+=======
+Este es el contenido del archivo.
+>>>>>>> 9daceb449866e76d5e2e9948cf2e885771a085ce
